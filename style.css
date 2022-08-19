@@ -489,10 +489,11 @@ body {
   margin-top: 13px; }
 
 .footer__important-disclamer {
-  width: 312px;
+/*   width: 312px; */
   height: 32px;
   text-align: center;
-  margin-top: 7px; }
+  margin-top: 7px;
+justify-content:space-between;}
 
 .cps {
   text-align: center; }
