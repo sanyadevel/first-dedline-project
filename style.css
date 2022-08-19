@@ -444,7 +444,7 @@ body {
 .background-image {
   width: 320px;
   height: 200px;
-  background-image: url("/img/image.png");
+  background-image: url(./static/image.png);
   background-size: 100%;
   background-repeat: no-repeat;
   margin: 15px auto 0 auto; }
@@ -614,7 +614,7 @@ body {
   .background-image {
     min-width: 360px;
     height: 200px;
-    background-image: url("/img/image.png");
+    background-image: url(./static/image.png);
     position: absolute;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -749,7 +749,7 @@ body {
   .background-image {
     width: 531px;
     height: 300px;
-    background-image: url("/img/image.png");
+    background-image: url(./static/image.png);
     position: absolute;
     border-radius: 5px;
     background-repeat: no-repeat; }
